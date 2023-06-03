@@ -1,0 +1,11 @@
+.crazy-page-container {
+    display: flex;
+   
+    height: 10vh;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+  }
+  
+  /* Add any additional CSS styles as needed */
+  

@@ -1,0 +1,44 @@
+.book-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .book-card {
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .book-details {
+    margin-bottom: 10px;
+  }
+  
+  .book-details h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .book-details p {
+    font-size: 14px;
+    color: #777;
+  }
+  .search-bar {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .booklist-nametitle{
+
+margin-left: 60px;
+  }
